@@ -1,0 +1,6 @@
+node_modules/
+mount-watch
+screenshot.html
+capture.mjs
+*.png
+build/
